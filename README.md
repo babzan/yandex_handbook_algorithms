@@ -1,1 +1,1 @@
-# yandex_handbook_algorithms
+# Yandex Handbook - Algorithms
